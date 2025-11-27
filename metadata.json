@@ -1,0 +1,5 @@
+{
+  "name": "Smart Quran Tafsir",
+  "description": "An intelligent, bilingual (Arabic/English) application providing deep interpretations of the Holy Quran with professional text-to-speech capabilities.",
+  "requestFramePermissions": []
+}
